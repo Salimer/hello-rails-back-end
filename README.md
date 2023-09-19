@@ -48,7 +48,7 @@
 
 ### Project FrontEnd <a name="-project-frontend-"></a>
 
-- <a href="https://github.com/salimer/React-on-Rails-FrontEnd">Link to Front end repo</a>
+- <a href="https://github.com/Salimer/hello-react-front-end">Link to Front end repo</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
